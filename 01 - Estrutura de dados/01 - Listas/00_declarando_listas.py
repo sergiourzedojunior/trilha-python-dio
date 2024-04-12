@@ -1,3 +1,11 @@
+# Start Python interpreter
+python
+
+import os
+
+# Clear the console
+os.system('cls')  # For Windows
+
 frutas = ["laranja", "maca", "uva"]
 print(frutas)
 
